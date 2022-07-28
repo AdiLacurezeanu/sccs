@@ -1,0 +1,4 @@
+mgp:
+  provisioning:
+    firstCron: 0/5 * * * * ?
+    secondCron: 0/3 * * * * ?
