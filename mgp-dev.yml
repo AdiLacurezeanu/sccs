@@ -1,4 +1,4 @@
 mgp:
   provisioning:
-    firstCron: 0/10 * * * * ?
-    secondCron: 0/5 * * * * ?
+    firstCron: 0/7 * * * * ?
+    secondCron: 0/3 * * * * ?
